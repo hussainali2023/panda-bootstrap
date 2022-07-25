@@ -1,0 +1,15 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+
+.btn{
+    background-color: #ff5397;
+    border: 0;
+}
+.search:hover{
+    background-color: rgb(143, 237, 143);
+    
+}
+.catagories img{
+    width: 100px;
+}
